@@ -325,12 +325,12 @@ ul#nav li.current a { color: #1E732D; }
 /* Call To Action
 ------------------------------------------------------------------ */
 #call-to-action {
-	padding-top: 0px;
+	padding-top: 30px;
    text-align: center;
 }
 #call-to-action .section-ads {
 	max-width: 880px;
-	padding-top: 0px;
+	padding-top: 36px;
 	border-top: 1px dotted #4b8f57;
 	border-top: 1px dotted rgba(255, 255, 255, .2);
 }
