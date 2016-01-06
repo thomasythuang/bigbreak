@@ -334,7 +334,7 @@ ul#nav li.current a { color: #1E732D; }
 	border-top: 1px dotted #4b8f57;
 	border-top: 1px dotted rgba(255, 255, 255, .2);
 }
-#call-to-action h2 {
+.section-header h2 {
    font: 30px/36px 'montserrat-bold', sans-serif;
    color: #003d99;
    letter-spacing: -0.5px;
@@ -354,7 +354,7 @@ ul#nav li.current a { color: #1E732D; }
 	width: 350px;
 	margin: 0 auto;
 }
-#call-to-action .button {
+.section-header .button {
 	background: #003d99;
 	color: #fff !important;
 }
